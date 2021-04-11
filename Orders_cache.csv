@@ -1,0 +1,9 @@
+order_id,Customer_Name,Address,Phone,courier_id,Order_Status,Items
+1,Abaas,home,1234,5,Delivered,"[1,2,3]"
+2,John,Cape town,3654834,1,Delivered,"[1, 5, 4]"
+3,Jack,Grove Road,77555656,2,Cancelled,"[1,2,3]"
+4,Oggy,Plashet Road,8898993,1,Delivered,[4]
+5,David,Forest Road,846548,4,Out for Delivery,"[1, 2, 4, 2]"
+6,Skink,Forest Street Road,97922346,6,Out for Delivery,"[3, 2, 4]"
+7,Michael,Mew Lane,78432162,3,Preparing,"[1,2,3]"
+8,Luke Thomas,Frost Road,77956542,6,Preparing,"[2, 4, 6]"
